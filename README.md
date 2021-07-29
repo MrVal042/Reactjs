@@ -2,20 +2,9 @@
 Contains all the react.js projects except there is a condition in the future that demand this exception such as private projects etc..
 
 ## List of the projects
-1. * [Todo app](https://mrval042.github.io/Basic-Js/Todo%20app/) - Todo app with edit,done snd delete function.[live preview](https://mrval042.github.io/Basic-Js/Todo%20app/)
-2. * [W3c Todo](https://mrval042.github.io/Basic-Js/W3%20Todo%20list/) - The basic web development tutorial.
-3. * [acme-web](https://mrval042.github.io/Basic-Js/acme-web/) - The basic web development tutorial.
-4. * [auto image](https://mrval042.github.io/Basic-Js/auto%20image/) - The basic web development tutorial.
-5. * [background changer](https://mrval042.github.io/Basic-Js/background%20changer/) - The basic web development tutorial.
-6. * [countDown](https://mrval042.github.io/Basic-Js/countDown/) - The basic web development tutorial.
-7. * [counter](https://mrval042.github.io/Basic-Js/counter/) - The basic web development tutorial.
-8. * [e-commence](https://mrval042.github.io/Basic-Js/e-commence/) - The basic web development tutorial.
-9. * [facebook poster](https://mrval042.github.io/Basic-Js/facebook%20clone/) - The basic web development tutorial.
-10. * [modal](https://mrval042.github.io/Basic-Js/modal/) - The basic web development tutorial.
-11. * [navBar](https://mrval042.github.io/Basic-Js/navBar/) - The basic web development tutorial.
-12. * [search-array](https://mrval042.github.io/Basic-Js/search-array/) - The basic web development tutorial.
-13. * [site-assesment](https://mrval042.github.io/Basic-Js/site-assesment/) - The basic web development tutorial
-14. * [star-lab](https://mrval042.github.io/Basic-Js/star-lab/) - The basic web development tutorial.
+1. * [Business-venture](https://mrval042.github.io/Basic-Js/Todo%20app/) - Todo app with edit,done snd delete function.[live preview](https://mrval042.github.io/Basic-Js/Todo%20app/)
+2. * cart-counter](https://mrval042.github.io/Basic-Js/W3%20Todo%20list/) - The basic web development tutorial.
+3. * [Codeants](https://mrval042.github.io/Basic-Js/acme-web/) - The basic web development tutorial.
 
 
 Growth is an invisible changes, i have this feeling that one day i will look all this and just laugh,not because
